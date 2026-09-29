@@ -1,0 +1,21 @@
+Student,Course,Competency,Hours_Studied,Grade,Program
+Alice,Data Science,Statistics,12,88,Informatics
+Bob,Data Science,Programming,10,75,Informatics
+Clara,Education,Pedagogy,14,92,Education
+David,Education,Assessment,9,70,Education
+Ella,Data Science,Machine Learning,15,95,Informatics
+Frank,Education,Curriculum Design,11,85,Education
+Gina,Data Science,Data Visualization,8,78,Informatics
+Hugo,Education,Learning Analytics,13,90,Education
+Ingrid,Data Science,Big Data,16,98,Informatics
+Jack,Education,Assessment,7,65,Education
+Katrin,Data Science,Programming,9,72,Informatics
+Leo,Education,Pedagogy,12,88,Education
+Maria,Data Science,Machine Learning,14,92,Informatics
+Nikolai,Education,Curriculum Design,10,83,Education
+Oskar,Data Science,Statistics,11,80,Informatics
+Paula,Education,Learning Analytics,15,94,Education
+Rasmus,Data Science,Data Visualization,7,68,Informatics
+Sandra,Education,Pedagogy,13,89,Education
+Tomas,Data Science,Big Data,12,85,Informatics
+Ursula,Education,Assessment,8,74,Education
